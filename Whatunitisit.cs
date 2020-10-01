@@ -11,7 +11,7 @@ namespace week3ass
         public void Unitstotest1(int num)
         {
             string answer = "";
-            
+            string[] zero = { "zero" };
             string[] ones = { "", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten", "eleven", "twelve", "thirteen", "fourteen", "fifteen", "sixteen", "seventeen", "eighteen", "nineteen~" };
             string[] tens = { "", "", "twenty", "thirty", "forty", "fifty", "sixty", "seventy", "eighty", "ninety" };
 
@@ -54,6 +54,8 @@ namespace week3ass
             {
                 answer += " " + ones[num];
             }
+            if (num == 0)
+                answer += "" + zero[num];
 
 
                 Console.WriteLine(answer);
