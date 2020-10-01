@@ -9,3 +9,6 @@ my fi=
 my formatting was logically great just long, so it needed shrinking, had 89 errors down to 0.
 - Possible improvements for future challenges
 none
+
+
+Strech goaals got super streched i did up to 1 million. 
