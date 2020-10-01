@@ -11,4 +11,4 @@ my formatting was logically great just long, so it needed shrinking, had 89 erro
 none
 
 
-Strech goaals got super streched i did up to 1 million. 
+Strech goals got super streched I did up to 1 million. 
